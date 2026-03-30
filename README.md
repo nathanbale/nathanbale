@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Nathan
 
-<!--
-**nathanbale/nathanbale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior DevOps Engineer based in Cluj-Napoca, Romania, with hands-on experience in Azure infrastructure, Terraform, and CI/CD pipelines. Currently working toward my AZ-104 certification and building my cloud portfolio.
 
-Here are some ideas to get you started:
+## Tech stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Cloud & IaC** · Azure (VMs, VNets, Storage, SQL, RBAC) · AWS (EKS, IAM, VPC) · Terraform  
+**CI/CD** · GitHub Actions · Docker · GitOps workflows  
+**Other** · Python · Bash · Git · Kubernetes (kubectl, manifests)
+
+## Featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [aws-eks-gitops-project](https://github.com/nathanbale/aws-eks-gitops-project) | Flask app deployed to EKS with GitHub Actions CI/CD, staging + prod environments | Python · Docker · K8s · GitHub Actions |
+| [azure-infra-lab](https://github.com/nathanbale/azure-infra-lab) *(coming soon)* | Azure infrastructure automation — VMs, VNets, RBAC, Storage with private endpoints | Terraform · Azure |
+| [devops-webapp](https://github.com/nathanbale/devops-webapp) | Simple containerised Flask web app | Python · Docker |
+
+## Currently
+
+- Preparing for **AZ-104** (Microsoft Azure Administrator)
+- Building my [azure-infra-lab](https://github.com/nathanbale/azure-infra-lab) Terraform portfolio
+- Open to freelance DevOps / cloud infrastructure work
+
+## Connect
+https://www.linkedin.com/in/nathanbale/
