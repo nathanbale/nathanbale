@@ -1,3 +1,4 @@
+[profile-README-v3.md](https://github.com/user-attachments/files/26346794/profile-README-v3.md)
 # Hi, I'm Nathan
 
 Junior DevOps Engineer based in Cluj-Napoca, Romania, with hands-on experience in Azure infrastructure, Terraform, and CI/CD pipelines. Currently working toward my AZ-104 certification and building my cloud portfolio.
@@ -23,4 +24,5 @@ Junior DevOps Engineer based in Cluj-Napoca, Romania, with hands-on experience i
 - Open to freelance DevOps / cloud infrastructure work
 
 ## Connect
-https://www.linkedin.com/in/nathanbale/
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nathanbale-blue?style=flat&logo=linkedin)](https://linkedin.com/in/nathanbale)
